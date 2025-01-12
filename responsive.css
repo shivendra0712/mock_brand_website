@@ -1,0 +1,9 @@
+@media (min-width:1025px) and  (max-width:1275px) {
+    .page_left>h1 {
+        
+        rotate: -94deg;
+        position: relative;
+        bottom: 240px;
+        left: 37%;
+   }
+}
