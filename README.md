@@ -11,7 +11,6 @@ The purpose of this project is to create a visually appealing and engaging landi
 * **Product Focus:** Highlights Frappuccino with a prominent title, description, and "Taste it now" call-to-action button.
 * **Navigation Bar:** Includes a navigation bar with the brand logo and links to "Coffee," "Tea," and "Dessert."
 * **Visual Appeal:** Uses a background image and color scheme to create an inviting and branded look.
-* **Responsive Design:** Includes `responsive.css` for adapting to different screen sizes.
 * **Custom Fonts:** Uses Google Fonts (Inter, Margarine, Parkinsans, Poppins, Protest Revolution).
 * **Image Placement:** uses absolute positioning to place the product image.
 
